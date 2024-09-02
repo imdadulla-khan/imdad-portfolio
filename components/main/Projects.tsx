@@ -14,7 +14,7 @@ const Projects: React.FC = () => {
         <ProjectCard
           src="/better_prompt.png"
           title="Better Your Prompt"
-          description="A full stack web application which finds better prompts for you using other blogs 
+          description="A full stack web application which finds better prompts for you using others' blogs. 
           Used Next.JS with react server components and Mongodb as the database to maintain the blogs."
         />
         <ProjectCard

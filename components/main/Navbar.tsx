@@ -18,7 +18,7 @@ const Navbar = () => {
             height={50} // Adjust size for mobile
             className="cursor-pointer hover:animate-slowspin"
           />
-          <span className="font-bold ml-2 hidden md:block text-gray-300">
+          <span className="font-bold ml-2 md:block text-gray-300">
             Fullstack Developer
           </span>
         </a>
